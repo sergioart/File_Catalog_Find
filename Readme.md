@@ -16,6 +16,7 @@
 т.к. данные приходят с помощью Ajax.<br />
 <br />
 Для поиска во всех вложенных подкаталогах включите "Sub_Dir".<br />
+<img src="https://leto42d.storage.yandex.net/rdisk/c46239ab39e83d29ce9ca93b05aca87626175805c0c5cebf97245065eabae5ba/inf/5fSJqWHFwBKBaiurS4_yHgNcKsovTSUSeB8GLbX_QH-K0KERpuVaQOEGbOayVdXTUYxwg8g5OQ0AJ95ZYmystQ==?uid=0&filename=4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-e8e23b10b97b9689c72252fc35f89e94-downloader1e" /><br />
 При включении "Dir_only" будет произведён поиск только названий каталогов, без файлов.<br />
 <br />
 Для поиска нужных файлов введите расширение в строку "Extension".<br />
@@ -92,7 +93,7 @@ Getestet auf Win. Beta.<br />
 
 
 
-<img src="https://leto42d.storage.yandex.net/rdisk/c46239ab39e83d29ce9ca93b05aca87626175805c0c5cebf97245065eabae5ba/inf/5fSJqWHFwBKBaiurS4_yHgNcKsovTSUSeB8GLbX_QH-K0KERpuVaQOEGbOayVdXTUYxwg8g5OQ0AJ95ZYmystQ==?uid=0&filename=4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-e8e23b10b97b9689c72252fc35f89e94-downloader1e" />
+
 
 <img src="https://s51e.storage.yandex.net/rdisk/419daed93a2d6880065ccc4d066aadca8de4f20aa9d165ec25ec3b3f801668b8/inf/3qreOTN8mr7jifiK1tf9I07gkET44iyMtmswVJ412eUi9Y0AskgwknRNZTj9ubyiIHy4NS2xJNcPfl7XBvRt9w%3D%3D?uid=0&filename=5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-316a7748bb70a7b0efbdcfdf20c64b3d-downloader1e&ts=528118b38c308&s=ff642c051ca41a476ae6a162ad5584787b9bc8b460ce89995c9c5307663cacb4&bp=/51/1/data-0.5:52956341162:12785" />
 
