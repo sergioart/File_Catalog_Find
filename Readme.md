@@ -29,7 +29,7 @@
 <br />
 Для "Extension" и "File_name" допускается ввод через запятую.<br />
 Данные поля регистрозависимы. т.е. расширения txT и txt различные.<br />
-При вводе символа "*" будут найдены все файлы / расширения.<br />
+При вводе символа "\*" будут найдены все файлы / расширения.<br />
 <img src="https://leto17g.storage.yandex.net/rdisk/f283ec81ed1379428b2e02dd8160b212c5dc85d3d985869f9c879d819e3c27a8/inf/DTgYuVM0175gBSQQJT5aELSdNCNtiKtdxuz5mx3mJGeIa9_5ipEfLZY3E9DqxMyLebbCkRsf7iNUVgmQqp8Dow==?uid=0&filename=7.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-faeb8ecdfe89c3373fd65a4d96eee2a0-downloader12g" /><br />
 <br />
 Протестировано на Win. Beta.<br />
