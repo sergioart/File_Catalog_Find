@@ -26,6 +26,7 @@
 <br />
 <br />
 <br />
+---------------------------------------------------------------<br />
 Local search files and directories (class + the web interface).<br />
 <br />
 Using the web interface:<br />
@@ -54,6 +55,7 @@ Tested on Win. Beta.<br />
 <br />
 <br />
 <br />
+-------------------------------------------------------------------------<br />
 Lokale Suche von Dateien und Verzeichnissen (Klasse + das Web-Interface).<br />
 <br />
 Verwenden der Webschnittstelle:<br />
