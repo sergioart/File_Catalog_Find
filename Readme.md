@@ -1,19 +1,31 @@
 #Readme<br />
 <br />
+<br />
+<br />
 Локальный поиск файлов и каталогов (класс + веб интерфейс).<br />
+Local search files and directories (class + the web interface).<br />
 <br />
 Работа с веб интерфейсом:<br />
 1)Скопируйте все файлы в одну папку.<br />
 2)Запустите через localhost файл "File_Catalog_Find.php"<br />
 <br />
+Using the web interface:<br />
+1) Copy all the files in one folder.<br />
+2) Run the file via localhost "File_Catalog_Find.php"<br />
+<br />
 Введите путь к каталогу для поиска в поле ввода "Dir".<br />
+Enter the path to the directory to search in the input field "Dir".<br />
 <img src="https://leto7g.storage.yandex.net/rdisk/65fb718f46ac54d8b93419dd8cebb411066c47fe5878b5a51c80e658a6c8cbd3/inf/JauMWNRpDCG1egpOirgd4iFBHbNcS19XkizJw0AWzH7u5Z40NZtdb_DpecrkpfIIRWpND7boYJ4r5b6S5Ky0MQ==?uid=0&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-98f8418a4c4592ab8eabccf8dc0beab8-downloader5g" /><br />
+During commissioning, the program checks for the existence of the catalog.<br />
 Во время ввода, программа проверяет существование каталога.<br />
 <img src="https://leto7h.storage.yandex.net/rdisk/a7212f2e44e549a7e4a63da60b4abfc11566ba4c453f70386a7df9e6c349b62a/inf/lAPJgmkp9qCbGWskys8XgbvDHOgT5MQBzJFn_OGA7TyASJC5TiewMCu0BK4XGmRbgazxqCJyZb3Bv6K4z_waaA==?uid=0&filename=2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-506d8a284cf1544891efac9438467351-downloader9d" /><br />
 Если каталог найден, это покажет строка статуса.<br />
+If a directory is found, it will show the status bar.<br />
 <img src="https://s79h.storage.yandex.net/rdisk/41ed1165b66cd852e8a6b9015eaabfa8afb60970187f234c266202a6cdb96bf8/inf/3qreOTN8mr7jifiK1tf9Iyp7xzh7KOE5cgqng1lUOOYP3ONPP_d-v1YBvY-hYlCAupTRemmfcCdkqxsxhFFm7Q%3D%3D?uid=0&filename=3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-e90f464ae434e21623308918510cbe34-downloader9d&ts=528118617249c&s=781016657e283f8b2de2090da805ca4c4974719e8a2d011609ca501d242924cd&bp=/10/1/data-0.7:24307418749:8800" /><br />
 Для работоспособности интерактивной проверки в браузере должен быть включен JS,<br />
 т.к. данные приходят с помощью Ajax.<br />
+For an interactive health check in the browser must be enabled JS,<br />
+because data come via Ajax.<br />
 <br />
 Для поиска во всех вложенных подкаталогах включите "Sub_Dir".<br />
 <img src="https://leto42d.storage.yandex.net/rdisk/c46239ab39e83d29ce9ca93b05aca87626175805c0c5cebf97245065eabae5ba/inf/5fSJqWHFwBKBaiurS4_yHgNcKsovTSUSeB8GLbX_QH-K0KERpuVaQOEGbOayVdXTUYxwg8g5OQ0AJ95ZYmystQ==?uid=0&filename=4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-e8e23b10b97b9689c72252fc35f89e94-downloader1e" /><br />
@@ -37,17 +49,10 @@
 <br />
 <br />
 ---------------------------------------------------------------<br />
-Local search files and directories (class + the web interface).<br />
+
+
 <br />
-Using the web interface:<br />
-1) Copy all the files in one folder.<br />
-2) Run the file via localhost "File_Catalog_Find.php"<br />
-<br />
-Enter the path to the directory to search in the input field "Dir".<br />
-During commissioning, the program checks for the existence of the catalog.<br />
-If a directory is found, it will show the status bar.<br />
-For an interactive health check in the browser must be enabled JS,<br />
-because data come via Ajax.<br />
+
 <br />
 To search all subdirectories include "Sub_Dir".<br />
 When the "Dir_only" will be found only the names of the directories without files.<br />
