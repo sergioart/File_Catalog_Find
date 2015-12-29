@@ -6,7 +6,7 @@ Local search files and directories (class + the web interface).<br />
 <br />
 Локальный поиск файлов и каталогов (класс + веб интерфейс).<br />
 <br />
-
+<br />
 Using the web interface:<br />
 1) Copy all the files in one folder.<br />
 2) Run the file via localhost "File_Catalog_Find.php"<br />
@@ -15,15 +15,22 @@ Enter the path to the directory to search in the input field "Dir".<br />
 Работа с веб интерфейсом:<br />
 1)Скопируйте все файлы в одну папку.<br />
 2)Запустите через localhost файл "File_Catalog_Find.php"<br />
-<br />
 Введите путь к каталогу для поиска в поле ввода "Dir".<br />
+<br />
 <img src="https://leto7g.storage.yandex.net/rdisk/65fb718f46ac54d8b93419dd8cebb411066c47fe5878b5a51c80e658a6c8cbd3/inf/JauMWNRpDCG1egpOirgd4iFBHbNcS19XkizJw0AWzH7u5Z40NZtdb_DpecrkpfIIRWpND7boYJ4r5b6S5Ky0MQ==?uid=0&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-98f8418a4c4592ab8eabccf8dc0beab8-downloader5g" /><br />
+<br />
+<br />
 During commissioning, the program checks for the existence of the catalog.<br />
 <br />
 Во время ввода, программа проверяет существование каталога.<br />
+<br />
 <img src="https://leto7h.storage.yandex.net/rdisk/a7212f2e44e549a7e4a63da60b4abfc11566ba4c453f70386a7df9e6c349b62a/inf/lAPJgmkp9qCbGWskys8XgbvDHOgT5MQBzJFn_OGA7TyASJC5TiewMCu0BK4XGmRbgazxqCJyZb3Bv6K4z_waaA==?uid=0&filename=2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-506d8a284cf1544891efac9438467351-downloader9d" /><br />
+<br />
+<br />
 If a directory is found, it will show the status bar.<br />
+<br />
 Если каталог найден, это покажет строка статуса.<br />
+<br />
 <img src="https://s79h.storage.yandex.net/rdisk/41ed1165b66cd852e8a6b9015eaabfa8afb60970187f234c266202a6cdb96bf8/inf/3qreOTN8mr7jifiK1tf9Iyp7xzh7KOE5cgqng1lUOOYP3ONPP_d-v1YBvY-hYlCAupTRemmfcCdkqxsxhFFm7Q%3D%3D?uid=0&filename=3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-e90f464ae434e21623308918510cbe34-downloader9d&ts=528118617249c&s=781016657e283f8b2de2090da805ca4c4974719e8a2d011609ca501d242924cd&bp=/10/1/data-0.7:24307418749:8800" /><br />
 <br />
 <br />
@@ -41,6 +48,7 @@ To search all subdirectories include "Sub_Dir".<br />
 When the "Dir_only" will be found only the names of the directories without files.<br />
 <br />
 При включении "Dir_only" будет произведён поиск только названий каталогов, без файлов.<br />
+<br />
 <img src="https://s51e.storage.yandex.net/rdisk/419daed93a2d6880065ccc4d066aadca8de4f20aa9d165ec25ec3b3f801668b8/inf/3qreOTN8mr7jifiK1tf9I07gkET44iyMtmswVJ412eUi9Y0AskgwknRNZTj9ubyiIHy4NS2xJNcPfl7XBvRt9w%3D%3D?uid=0&filename=5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-316a7748bb70a7b0efbdcfdf20c64b3d-downloader1e&ts=528118b38c308&s=ff642c051ca41a476ae6a162ad5584787b9bc8b460ce89995c9c5307663cacb4&bp=/51/1/data-0.5:52956341162:12785" /><br />
 <br />
 <br />
@@ -49,6 +57,7 @@ The string "File_name" to enter the desired file name.<br />
 <br />
 Для поиска нужных файлов введите расширение в строку "Extension".<br />
 В строку "File_name" введите требуемое имя файла.<br />
+<br />
 <img src="https://leto38e.storage.yandex.net/rdisk/082310cf2d999be064d97904822cd9daeb5e7eb6f8de84836b51a03c2a556a4c/inf/57NRr9e6-NJMpGN1pmuO_9H_nccwlAEF2N_nDCCWRx99Vq4HM1XZxvg0KA9Qj6QxDT0Pa8hRLFfon9kfpy-e3g==?uid=0&filename=6.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-f9bc2de970cb82105fb00c2e52a7be76-downloader1e" /><br />
 <br />
 <br />
@@ -59,29 +68,13 @@ If you enter the symbol "\*" will find all the files / extensions.<br />
 Для "Extension" и "File_name" допускается ввод через запятую.<br />
 Данные поля регистрозависимы. т.е. расширения txT и txt различные.<br />
 При вводе символа "\*" будут найдены все файлы / расширения.<br />
+<br />
 <img src="https://leto17g.storage.yandex.net/rdisk/f283ec81ed1379428b2e02dd8160b212c5dc85d3d985869f9c879d819e3c27a8/inf/DTgYuVM0175gBSQQJT5aELSdNCNtiKtdxuz5mx3mJGeIa9_5ipEfLZY3E9DqxMyLebbCkRsf7iNUVgmQqp8Dow==?uid=0&filename=7.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-faeb8ecdfe89c3373fd65a4d96eee2a0-downloader12g" /><br />
 <br />
-
+<br />
+<br />
 Tested on Win. Beta.<br />
 Протестировано на Win. Beta.<br />
-<br />
-<br />
-<br />
----------------------------------------------------------------<br />
-
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-<br />
 <br />
 <br />
 <br />
