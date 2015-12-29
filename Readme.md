@@ -81,3 +81,10 @@ Wenn Sie das Symbol "*" eingeben werden alle Dateien / Erweiterungen finden.<br 
 Getestet auf Win. Beta.<br />
 <br />
 
+
+
+<img src="https://leto7g.storage.yandex.net/rdisk/65fb718f46ac54d8b93419dd8cebb411066c47fe5878b5a51c80e658a6c8cbd3/inf/JauMWNRpDCG1egpOirgd4iFBHbNcS19XkizJw0AWzH7u5Z40NZtdb_DpecrkpfIIRWpND7boYJ4r5b6S5Ky0MQ==?uid=0&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=f0e22665315e3dcab9af0ec4a8867ba1&force_default=no&ycrid=na-98f8418a4c4592ab8eabccf8dc0beab8-downloader5g" />
+
+
+
+
