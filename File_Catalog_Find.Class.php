@@ -1,7 +1,7 @@
 <?php
 
 /**
- 
+
  * Поиск каталогов, подкаталогов и файлов в них by sergioart https://github.com/sergioart/. Win. case-sensetive.
  * Search directory subdirectories and files in them by sergioart https://github.com/sergioart/. Win. case - sensetive.
  * Suche Verzeichnis Unterverzeichnisse und Dateien in ihnen by sergioart https://github.com/sergioart/. Win. case - sensetive.
