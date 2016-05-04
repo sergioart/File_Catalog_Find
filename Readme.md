@@ -41,7 +41,7 @@ If a directory is found, it will show the status bar.<br />
 <br />
 Wenn ein Verzeichnis gefunden wird, wird die Statusleiste angezeigt.<br />
 <br />
-<img src="https://2.downloader.disk.yandex.ua/disk/5ef7d0815dfc4c099124da43bc0bc76ad8d7e47c784735c5f2ef8e8ec742b9cc/570cf3c8/3qreOTN8mr7jifiK1tf9Iyp7xzh7KOE5cgqng1lUOOYP3ONPP_d-v1YBvY-hYlCAupTRemmfcCdkqxsxhFFm7Q%3D%3D?uid=0&filename=3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&fsize=8800&hid=08023032d0f661ec11655182f9bdb516&media_type=image&tknv=v2&etag=87569d670eca453dc24b209cb7a9eeda" /><br />
+<img src="https://1.downloader.disk.yandex.ua/preview/a5bbece83ec7631e25ade739bd0a045dbd449c5cb1f5f8eb5f0e01f4457981fd/inf/3qreOTN8mr7jifiK1tf9I_TtpsFEfrfXa8Ez7V6A2_nn6gGEp_rn54VGHqzjdJXY3PYKZmUSzieDpUbLdlT03w%3D%3D?uid=0&filename=3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1163x679" /><br />
 <br />
 <br />
 For an interactive health check in the browser must be enabled JS,<br />
