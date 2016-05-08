@@ -8,8 +8,8 @@ Local search files and directories (class + the web interface).<br />
 <br />
 Lokale Suche von Dateien und Verzeichnissen (Klasse + das Web-Interface).<br />
 <br />
->!Using the web interface:<br />
-1) Copy all the files in one folder.<br />
+Using the web interface:<br />
+>! 1) Copy all the files in one folder.<br />
 2) Run the file via localhost "File_Catalog_Find.php"<br />
 Enter the path to the directory to search in the input field "Dir".<br />
 <br />
