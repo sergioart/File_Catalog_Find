@@ -14,14 +14,14 @@ Using the web interface:<br />
 Enter the path to the directory to search in the input field "Dir".<br />
 <br />
 Работа с веб интерфейсом:<br />
-1)Скопируйте все файлы в одну папку.<br />
-2)Запустите через localhost файл "File_Catalog_Find.php"<br />
-Введите путь к каталогу для поиска в поле ввода "Dir".<br />
+>!1)Скопируйте все файлы в одну папку.<br />
+>!2)Запустите через localhost файл "File_Catalog_Find.php"<br />
+>!Введите путь к каталогу для поиска в поле ввода "Dir".<br />
 <br />
 Verwenden der Webschnittstelle:<br />
-1) Kopieren Sie alle Dateien in einem Ordner.<br />
-2) Führen Sie die Datei via localhost "File_Catalog_Find.php"<br />
-Geben Sie den Pfad zu dem Verzeichnis, in das Eingabefeld "Dir" zu suchen.<br />
+>!1) Kopieren Sie alle Dateien in einem Ordner.<br />
+>!2) Führen Sie die Datei via localhost "File_Catalog_Find.php"<br />
+>!Geben Sie den Pfad zu dem Verzeichnis, in das Eingabefeld "Dir" zu suchen.<br />
 <br />
 <img src="https://3.downloader.disk.yandex.ua/preview/325b23723657b4b9e2a70411fbec321a6f51805862c75a6637209fb4b845e24e/inf/ZmLKnNJtbUCKFiGFxF2iYyFBHbNcS19XkizJw0AWzH4-AL1bWFbRTjef7-pVYdlYzIqLdaCms0_03X0mFVbTBQ%3D%3D?uid=0&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1163x679" /><br />
 <br />
